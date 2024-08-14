@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Ololade Adefala
 - 👀 I’m interested in data analysis to extract insights, identify trends to provide business solutions
-- 🌱 I’m currently learning Excel, Power BI and SQL
+- 🌱 Proficient in Excel, Power BI and SQL
 - 💞️ I’m looking to collaborate on data anlysis projects
 - 📫 How to reach me here www.linkedin.com/in/ololade-adefala
-- 📫 Project project website https://ololadeadefalaportfolio.mystrikingly.com
+- 📫 Project portfolio website https://ololadeadefalaportfolio.mystrikingly.com
 
 
 <!---
