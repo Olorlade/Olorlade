@@ -17,8 +17,9 @@ Check out my [blog](https://medium.com/@ololadeadefala) for more insights!
 
 ---
 ### CONNECT WITH ME
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ololade-adefala/)
+[![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.x.com/lorladea)
+
 
 
 
