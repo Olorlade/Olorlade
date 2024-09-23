@@ -25,9 +25,6 @@ Check out my [blog](https://medium.com/@ololadeadefala) for more insights!
 
 
 
-- 📫 You can reach me here www.linkedin.com/in/ololade-adefala
-
-
 
 
 <!---
