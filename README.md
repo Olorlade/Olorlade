@@ -1,5 +1,6 @@
 ### ABOUT ME
--👋Hello, I'm Ololade Adefala. A passionate Data Analyst turning raw data into valuable and actionable insights that guide business decisions. Let's explore the world of data together.
+👋Hello, I'm Ololade Adefala. A passionate Data Analyst turning raw data into valuable and actionable insights that guide business decisions. Let's explore the world of data together
+
 ---
 ### 💻 TECH STACKS I WORK WITH
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
