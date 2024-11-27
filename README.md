@@ -1,5 +1,5 @@
 ### ABOUT ME
-- 👋 Hello. Welcome to my GitHub profile! I'm Ololade Adefala. I'm a Data Analyst, proficient in Excel, Power BI, and SQL. I turn raw data into valuable insights that guide business decisions. I’m looking to collaborate on data analytics projects
+- 👋 Hello, I'm Ololade Adefala. A passionate Data Analyst turning raw data into valuable and actionable insights that guide business decisions. Let's explore the world of data together. 
 ---
 ### 💻 TECH STACKS I WORK WITH
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
