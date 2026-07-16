@@ -18,6 +18,8 @@ Let’s explore the world of data and turn numbers into impact, together.
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)![Expert](https://img.shields.io/badge/Expert-D3D3D3?style=for-the-badge&logo=expert&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)![Intermediate](https://img.shields.io/badge/Intermediate-D3D3D3?style=for-the-badge&logo=expert&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)![Intermediate](https://img.shields.io/badge/Intermediate-D3D3D3?style=for-the-badge&logo=expert&logoColor=white)
+[<img src="https://cdn.simpleicons.org/yahoo/6001D2" width="20"/>](mailto:yourname@yahoo.com)
+[![Email](https://img.shields.io/badge/Email-30363D?style=for-the-badge)](mailto:yourname@yahoo.com)
 
 ---
 ### TECHNICAL SKILLS 🛠️
