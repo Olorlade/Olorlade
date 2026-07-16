@@ -1,5 +1,8 @@
+### Hello 👋, I'm Ololade Adefala
+
+---
 ### ABOUT ME 👩🏼‍🦰
-👋Hello, I'm Ololade Adefala. A passionate Data Analyst dedicated to transforming raw data into meaningful insights that support smarter business decisions.
+I am Data Analyst dedicated to transforming raw data into meaningful insights that support smarter business decisions.
 
 For me, data is more than numbers, it's a story waiting to be told.
 
