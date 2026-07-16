@@ -51,7 +51,9 @@ Check out my [blog](https://medium.com/@ololadeadefala) for more insights!
 ### CONNECT WITH ME 📫
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ololade-adefala/)
 [![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.x.com/lorladea)
-![Yahoo Mail](https://img.shields.io/badge/Email-Me-6001D2?style=for-the-badge&logo=yahoo&logoColor=white)](mailto:ololadeadefala@yahoo.com)
+![Yahoo Mail](https://img.shields.io/badge/Email-6001D2?style=for-the-badge&logo=yahoo&logoColor=white)](mailto:ololadeadefala@yahoo.com)
+[![Yahoo Mail](https://img.shields.io/badge/Email-30363D?style=for-the-badge&logo=yahoo&logoColor=white)](mailto:ololadeadefala@yahoo.com)
+
 ---
 Thank you for visiting my profile 👍
 
