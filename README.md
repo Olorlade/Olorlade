@@ -53,7 +53,7 @@ Check out my [blog](https://medium.com/@ololadeadefala) for more insights!
 [![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.x.com/lorladea)
 [![Email](https://img.shields.io/badge/Email-6001D2?style=for-the-badge&logo=yahoo&logoColor=white)](mailto:ololadeadefala@yahoo.com)
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=in&logoColor=white)
 
 ---
 Thank you for visiting my profile 👍
